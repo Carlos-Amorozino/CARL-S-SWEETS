@@ -13,6 +13,9 @@ html {
 }
 
 :root {
+
+    color-scheme: light;
+
     --color-1: #FDE4E6;
     --color-2: #ffffff;
     --color-3: #FC979A;
