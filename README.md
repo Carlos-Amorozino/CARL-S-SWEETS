@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="js-logo" />
 </p>
 
-<p>CAPTURA DO SITE</p>
+<p>CAPTURA DO SITE:</p>
 
 <img src="https://github.com/Carlos-Amorozino/CARL-S-SWEETS/blob/master/img/prints/print-1.png?raw=true">
 
